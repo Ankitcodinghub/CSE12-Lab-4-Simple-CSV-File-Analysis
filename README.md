@@ -2,11 +2,10 @@ SOLUTION LINK
 https://www.ankitcodinghub.com/product/cse12-lab-4-simple-csv-file-analysis-spring-2025-solved/
 
 OUTPUT OF THE SOLUTION
+![RISC v CSE12 Lab4](https://github.com/user-attachments/assets/e086db21-b9aa-48db-a6db-c7c10c4c9b42)
 
 
-https://github.com/Ankitcodinghub/CSE12-Lab-4-Simple-CSV-File-Analysis/blob/main/RISC%20v%20CSE12%20Lab4.png
-https://github.com/Ankitcodinghub/CSE12-Lab-4-Simple-CSV-File-Analysis/blob/main/CSE12%20LAB4%20GRADESCOPE.png
-
+![CSE12 LAB4 GRADESCOPE](https://github.com/user-attachments/assets/1e45e6de-b81d-493f-9725-97b830fa4e90)
 
 
 
