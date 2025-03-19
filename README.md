@@ -4,8 +4,8 @@ https://www.ankitcodinghub.com/product/cse12-lab-4-simple-csv-file-analysis-spri
 OUTPUT OF THE SOLUTION
 
 
-![Description of Image](RISC v CSE12 Lab4.png)
-![Description of Image](CSE12 LAB4 GRADESCOPE.png)
+https://github.com/Ankitcodinghub/CSE12-Lab-4-Simple-CSV-File-Analysis/blob/main/RISC%20v%20CSE12%20Lab4.png
+https://github.com/Ankitcodinghub/CSE12-Lab-4-Simple-CSV-File-Analysis/blob/main/CSE12%20LAB4%20GRADESCOPE.png
 
 
 
