@@ -2,6 +2,7 @@ SOLUTION LINK
 https://www.ankitcodinghub.com/product/cse12-lab-4-simple-csv-file-analysis-spring-2025-solved/
 
 OUTPUT OF THE SOLUTION
+
 ![RISC v CSE12 Lab4](https://github.com/user-attachments/assets/e086db21-b9aa-48db-a6db-c7c10c4c9b42)
 
 
